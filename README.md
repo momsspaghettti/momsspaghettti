@@ -15,10 +15,10 @@
 
 
 <h2>👨‍💻 About Me:</h2>
-<p>Highly skilled backend developer with more than 3 years work experience. Excellent knowledge in C# and other programming languages (e.g. Python, Go), SQL, algorithms and data structures.</p>
+<p>Highly skilled backend developer with more than 3 years work experience. Excellent knowledge in Go, Python, C#, SQL languages and also algorithms and data structures.</p>
 
 
-<h2>{} My stats:</h2>
+<h2>My stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momsspaghettti&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
- 
+
