@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1>Hi there, I'm Ivan 👋 <br>I'm Junior Front End Developer
+  <h1>Hi there, I'm Ivan 👋 <br>I'm Software Developer | Backend Developer - Yandex LLC
   <img src ="https://media.licdn.com/dms/image/C560BAQExT729lfsbuA/company-logo_100_100/0/1618245890497?e=1701302400&v=beta&t=_7PnZMQEXqqI__4O-t-shWBint0rxIv1q6snvU5aHhA" alt="" width="45px"/>
   </h1>
 </div>
