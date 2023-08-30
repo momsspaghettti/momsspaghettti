@@ -5,12 +5,12 @@
 </div>
 
 <div align = "center" id="badges">
-  <a href = "https://www.linkedin.com/in/viktoriia-samoilova-3310b1259/">
+  <a href = "https://www.linkedin.com/in/ivan-samoilov-78741718a/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=wcodersv&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=momsspaghettti&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h2>👨‍💻 About Me:</h2>
