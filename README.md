@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=momsspaghettti&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 <h2>👨‍💻 About Me:</h2>
 <p>Highly skilled backend developer with more than 3 years work experience. Excellent knowledge in C# and other programming languages (e.g. Python, Go), SQL, algorithms and data structures.</p>
 
