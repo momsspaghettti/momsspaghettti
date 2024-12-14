@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1>Hi there, I'm Ivan 👋 <br>I'm Software Developer | Backend Developer - Yandex LLC
+  <h1>Hi there, I'm Ivan 👋 <br>I'm Golang Backend Developer
   <img src ="https://media.licdn.com/dms/image/C560BAQExT729lfsbuA/company-logo_100_100/0/1618245890497?e=1701302400&v=beta&t=_7PnZMQEXqqI__4O-t-shWBint0rxIv1q6snvU5aHhA" alt="" width="45px"/>
   </h1>
 </div>
@@ -15,7 +15,13 @@
 
 
 <h2>👨‍💻 About Me:</h2>
-<p>Highly skilled backend developer with more than 3 years work experience. Excellent knowledge in Go, Python, C#, SQL languages and also algorithms and data structures.</p>
+<p>
+  Highly skilled backend developer with 4+ years work experience.
+  
+  Excellent knowledge in Go, C# and Python as well as in SQL, algorithms and data structures.
+  
+  Experience in building distributed system with microservices and high load, designing and implementing HTTP RESTful and gRPC API.
+</p>
 
 
 <h2>My stats:</h2>
