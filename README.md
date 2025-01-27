@@ -16,15 +16,15 @@
 
 <h2>👨‍💻 About Me:</h2>
 <p>
-  Highly skilled backend developer with 4+ years work experience.
+  Highly skilled backend developer with 5 years work experience.
   
   Excellent knowledge in Go, C# and Python as well as in SQL, algorithms and data structures.
   
   Experience in building distributed system with microservices and high load, designing and implementing HTTP RESTful and gRPC API.
 </p>
 
-
+<!---
 <h2>My stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momsspaghettti&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
